@@ -5,6 +5,7 @@ import conf
 
 base_url = 'https://petstore.swagger.io/v2'
 
+
 # GET/ Logs user
 
 username = conf.username  
